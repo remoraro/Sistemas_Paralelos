@@ -1,1 +1,1 @@
-# Resumos das aulas de Arquiteturas de Computadores para a disciplina Sistemas Paralelos
+# Resumos das aulas para a disciplina Sistemas Paralelos (Arquitetura de Computadores 2)
